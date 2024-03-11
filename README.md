@@ -2,7 +2,7 @@
 <h1 align="center">A little bit about me</h1>
 <p align="center"> I'm a web developer with a profound and child like passion for creation. I feel fortunate that I have found my passion in life and am able to advance my skills to create even more!
 </p>
-<p>Currently i am studying my secound degreee in university and work on a couple of projects. I'm always working on my Website<span><a href="farbodmatin.ir">farbodmatin</a></span>at the time Im working on a an exciting Project affecting my community named Dggenhub. further exciting commits will follow</p>
+<p>Currently i am studying my secound degreee in university and work on a couple of projects. I'm always working on my <span><a href="farbodmatin.ir"> Website </a></span>at the time Im working on a an exciting Project affecting my community named Dggenhub. further exciting commits will follow</p>
 
 
 <h1 align="center">Technologies used</h1>
