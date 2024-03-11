@@ -8,9 +8,9 @@
 <h1 align="center">Technologies used</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/django-%23092E20?logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-%23000000?logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639?logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=white"/>
