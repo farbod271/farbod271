@@ -5,7 +5,7 @@
 <p>Currently I am studying my second degree in university and work on a couple of projects. I'm always working on my <span><a href="http://www.farbodmatin.ir"> Website </a></span>at the time Im working on a an exciting Project affecting my community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
 
 
-<h1 align="center">Technologies used</h1>
+<h1 align="center">Technologies I Have Used</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -14,11 +14,18 @@
 <img stc="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cookiecutter-%23D4AA00?style=for-the-badge&logo=cookiecutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/telegram-%232496ED?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<h1 align="center">Technologies I am Learning</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
 </p>
 
