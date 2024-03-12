@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/three.js-%23000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/cookiecutter-%23D4AA00?style=for-the-badge&logo=cookiecutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white"/>
