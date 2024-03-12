@@ -1,8 +1,8 @@
 
 <h1 align="center">A Little bit About Me</h1>
-<p align="center"> I'm a web developer with a profound and child like passion for creation. I feel fortunate that I have found my passion in life and am able to advance my skills to create even more!
+<p align="center"> Servus! I'm a full-stack web developer with a profound and child like passion for creation. I feel fortunate that I have found my passion at the early stages of life and am able to advance my skills to create even more!
 </p>
-<p>Currently I am studying my second degree in university and work on a couple of projects. I'm always working on my <span><a href="http://www.farbodmatin.ir"> Website </a></span>at the time Im working on a an exciting Project affecting my community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
+<p>Currently I am pursuing my second undergrad degree in University and work on various full-stack projects. I'm always improving my <span><a href="http://www.farbodmatin.ir"> Website </a></span>even tho my attention is more on my projects. at the time Im working on an exciting Project impacting my small town community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
 
 
 <h1 align="center">Technologies I Have Used</h1>
