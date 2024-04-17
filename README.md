@@ -7,6 +7,7 @@
 
 <h1 align="center">Technologies I Have Used</h1>
 <p align="center">
+<h2>Frontend<h2>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=white"/>
