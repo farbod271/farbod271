@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/cookiecutter-%23D4AA00?style=for-the-badge&logo=cookiecutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/telegram-%232496ED?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
