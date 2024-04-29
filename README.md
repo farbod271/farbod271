@@ -45,6 +45,11 @@
 
 </p>
 
+<p>
+  <img align="left" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+this is some text
+</p>
 
-  <img align="right" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <p align="right">text 2</p>
 
