@@ -47,7 +47,7 @@
 
 <hr>
 
-<div>
+<p>
   <img width="190" height="130" align="left" src="deggenhub cover.JPG"/>
 
   <p>
@@ -57,7 +57,7 @@
 
   <a href="https://deggenhub.de">Live Website</a>
   <hr>
-</div>
+</p>
 
 
 
