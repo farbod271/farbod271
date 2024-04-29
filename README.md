@@ -128,6 +128,7 @@ Static app with Bootstrap for a client
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248"/>
 
+<hr>
 
 <h1 align="center">Technologies I am Learning</h1>
 <p align="center">
