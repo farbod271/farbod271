@@ -32,7 +32,6 @@ Deggenhub: A full-stack app for the community of Deggendorf
 
   <hr>
 
-<hr>
 
 <p>
   <img width="130" height="190" align="left" src="liebess.JPG"/>
@@ -55,14 +54,13 @@ Deggenhub: A full-stack app for the community of Deggendorf
   <a href=#>Live version coming soon</a>
 </p>
 
-<hr>
 
 
 
 
 <hr>
 <p>
-  <img width="190" height="130" align="left" src="standard-academy.JPG"/>
+  <img width="190" height="130" align="left" src="tel.JPG"/>
 
   <p>
     <img src="https://img.shields.io/badge/telegram-%232496ED?style=for-the-badge&logo=telegram&logoColor=white"/>
