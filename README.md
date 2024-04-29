@@ -121,7 +121,7 @@ Static app with Bootstrap for a client
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/three.js-%23000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 
-<p>
+
 
 <h2>Backend and Databases<h2>
   <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -130,10 +130,8 @@ Static app with Bootstrap for a client
   <img src="https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248"/>
-</p>
 
 
-<hr>
 
 <h1 align="center">Technologies I am Learning</h1>
 <p align="center">
