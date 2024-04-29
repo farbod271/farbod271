@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </p>
 
-  <a href="https://deggenhub.de">Live Website</a>
+  <a style="color: red; text-decoration: none;" href="https://deggenhub.de">Live Website</a>
 
 
 
