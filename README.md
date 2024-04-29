@@ -1,8 +1,8 @@
 
-<h1 align="center">A Little bit About Me</h1>
-<p align="center"> Servus! I'm a full-stack web developer with a profound and child like passion for creation. I feel fortunate that I have found my passion at the early stages of life and am able to advance my skills to create even more!
+<h1 align="center">About Me</h1>
+<p align="center"> Servus! I'm a full-stack web developer with a profound passion for creation.
 </p>
-<p>Currently I am pursuing my second undergrad degree in University and work on various full-stack projects. I'm always improving my <span><a href="http://www.farbodmatin.ir"> Website </a></span>even tho my attention is more on my projects. at the time Im working on an exciting Project impacting my small town community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
+<p>Currently I am pursuing my second undergrad degree and work on various full-stack projects. I'm always improving my <span><a href="http://www.farbodmatin.ir"> Website </a></span>even tho my attention is more on my projects. at the time Im working on an exciting Project impacting my small town community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
 
 
 <hr>
@@ -51,7 +51,7 @@ Static app with Bootstrap for a client
 
 <br>
 
-  <a href="https://standard-academy.ir" rel="follow" target="_blank">Live Website</a>
+  <a href="https://standard-academy.ir" target="_blank">Live Website</a>
 
 <hr>
 
