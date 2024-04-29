@@ -67,8 +67,8 @@
 
 
 <section>
-<div>
-something</div>
+<!-- <div>
+something</div> -->
 
 <picture>
   <img width="190" height="130" align="left" src="standard-academy.JPG"/>
