@@ -47,9 +47,9 @@
 
 <hr>
 
-<picture>
+
   <img width="190" height="130" align="left" src="deggenhub cover.JPG"/>
-</picture>
+
 
   <p>
 <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
