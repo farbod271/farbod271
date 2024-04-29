@@ -7,7 +7,7 @@
 
 <hr>
   <p>
-  <img width="190" height="150" align="left" src="deggenhub cover.JPG"/>
+  <img width="190" height="130" padding="20" align="left" src="deggenhub cover.JPG"/>
   </p>
 
 
