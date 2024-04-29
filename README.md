@@ -6,8 +6,9 @@
 
 
 <hr>
-
+  <p>
   <img width="190" height="130" align="left" src="deggenhub cover.JPG"/>
+  </p>
 
 
   <p>
