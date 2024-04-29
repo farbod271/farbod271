@@ -51,7 +51,7 @@ Static app with Bootstrap for a client
 
 <br>
 
-  <a href="https://standard-academy.ir" target="_blank">Live Website</a>
+  <a href="https://standard-academy.ir" rel="follow" target="_blank">Live Website</a>
 
 <hr>
 
