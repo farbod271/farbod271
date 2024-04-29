@@ -130,6 +130,8 @@ Static app with Bootstrap for a client
 
 <hr>
 
+<p>
+
 <h1 align="center">Technologies I am Learning</h1>
 <p align="center">
 
@@ -137,10 +139,9 @@ Static app with Bootstrap for a client
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Puppeteer-0081CB?style=for-the-badge&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-
 </p>
 
+</p>
 
 
 
