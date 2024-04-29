@@ -6,9 +6,9 @@
 
 
 <hr>
-  <p>
+
   <img width="190" height="130" margin="20" align="left" src="deggenhub cover.JPG"/>
-  </p>
+
 
 
   <p>
