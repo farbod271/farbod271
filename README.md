@@ -23,7 +23,7 @@
   </p>
 
 <p>
-Deggenhub: A full-stack app for the community of Deggendorf<br>with live Weather
+Deggenhub: A full-stack app for the community of Deggendorf with live Weather!
 </p>
 
   <a href="https://deggenhub.de" target="_blank">Live Website</a>
