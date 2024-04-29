@@ -56,10 +56,10 @@
   </p>
 
   <a href="https://deggenhub.de">Live Website</a>
+  <hr>
 </div>
 
 
-  <hr>
 
 
   <img width="190" height="130" align="left" src="standard-academy.JPG"/>
