@@ -91,6 +91,8 @@ A full-stack app for the community of Deggendorf
 Static app with Bootstrap for a client
 </p>
 
+<br>
+
   <a href="https://standard-academy.ir">Live Website</a>
 </section>
 
