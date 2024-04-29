@@ -26,7 +26,7 @@
 A full-stack app for the community of Deggendorf
 </p>
 
-  <a style="color: red; text-decoration: none;" href="https://deggenhub.de">Live Website</a>
+  <a href="https://deggenhub.de" target="_blank">Live Website</a>
 
 
 
@@ -51,7 +51,7 @@ Static app with Bootstrap for a client
 
 <br>
 
-  <a href="https://standard-academy.ir">Live Website</a>
+  <a href="https://standard-academy.ir" target="_blank">Live Website</a>
 
 <hr>
 
