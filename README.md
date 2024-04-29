@@ -35,7 +35,20 @@ Deggenhub: A full-stack app for the community of Deggendorf
 <hr>
 
 <p>
-  <img width="190" height="130" align="left" src="standard-academy.JPG"/>
+  <img width="130" height="190" align="left" src="liebess.JPG"/>
+
+  <p>
+<img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js%20-white?style=for-the-badge&logo=express&labelColor=%23000000"/>
+<img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  </p>
 
 <p>Liebess reservation system: An app for a client that lets you choose and reserve a table</p>
 
