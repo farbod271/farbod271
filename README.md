@@ -54,7 +54,7 @@
 <strong>Technologies:</strong>A user can submit a form and choose the table from the custom built svg map of the actuall resturant. later versions will use react and the user will get a unique code to change the reservation details
 </p>
 
-  <a href=#>Live version coming soon</a>
+  <a href=https://github.com/farbod271/liebess>Live version coming soon</a>
 </p>
 
 
