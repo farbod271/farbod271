@@ -23,7 +23,8 @@
   </p>
 
 <p>
-Deggenhub: A full-stack app for the community of Deggendorf with live Weather!
+Deggenhub: A full-stack app for the community of Deggendorf with live Weather!<br>
+Technologies: the app uses a wide range of technologies. On the backend it makes API calls, has custom user authentication, retrieves information from databases, caches them and much more!
 </p>
 
   <a href="https://deggenhub.de" target="_blank">Live Website</a>
@@ -49,7 +50,9 @@ Deggenhub: A full-stack app for the community of Deggendorf with live Weather!
 <img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   </p>
 
-<p>Liebess reservation system: An app for a client that lets you choose and reserve a table</p>
+<p>Liebess Reservation system: An app for a client that lets you choose and reserve a table<br>
+A user can submit a form and choose the table from the custom built svg map of the actuall resturant. later versions will use react and the user will get a unique code to change the reservation details
+</p>
 
   <a href=#>Live version coming soon</a>
 </p>
@@ -68,7 +71,9 @@ Deggenhub: A full-stack app for the community of Deggendorf with live Weather!
 
   </p>
 
-<p>ERL-Checker: A Telegram Scraper Bot with subscription functionality that lets you know if any appartments in ERL deggendorf are availble</p>
+<p>ERL-Checker: A Telegram Scraper Bot with subscription functionality that lets you know if any appartments in ERL deggendorf are availble<br>
+the bot was created to solve a personal problem. this version has an engine that can check the availbility of apartments and a very basic database that users can subscribe. bot checks the site every 90 seconds and if anything is availble they will get a message from the bot.
+</p>
 
 
   <a href="https://t.me/erlcheckerbot">Live Bot</a>
