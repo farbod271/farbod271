@@ -23,8 +23,8 @@
   </p>
 
 <p>
-Deggenhub: A full-stack app for the community of Deggendorf with live Weather!<br>
-Technologies: the app uses a wide range of technologies. On the backend it makes API calls, has custom user authentication, retrieves information from databases, caches them and much more!
+**Deggenhub**: A full-stack app for the community of Deggendorf with live Weather!<br>
+**Technologies**: the app uses a wide range of technologies. On the backend it makes API calls, has custom user authentication, retrieves information from databases, caches them and much more!
 </p>
 
   <a href="https://deggenhub.de" target="_blank">Live Website</a>
