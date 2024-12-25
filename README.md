@@ -2,13 +2,13 @@
 <h1 align="center">About Me</h1>
 <p align="center"> Servus! I'm a full-stack web developer with a profound passion for creation.
 </p>
-<p>Currently I am pursuing my second undergrad degree and work on various full-stack projects. I'm always improving my <span><a href="http://www.farbod.eu"> Website </a></span>even tho my attention is more on my projects. at the time Im working on an exciting Project impacting my small town community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
+<p>Currently I am pursuing my second undergrad degree and work on various full-stack projects. I'm always improving<span><a href="http://www.farbod.eu">My Website </a></span>even tho my attention is more on my projects. at the time Im working on an exciting Project impacting my small town community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
 
 
 <hr>
 
   <img width="190" height="130" margin="20" align="left" src="deggenhub cover.JPG"/>
-
+<h2><strong>Deggenhub</strong></h2>
 
   <p>
 <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -23,7 +23,7 @@
   </p>
 
 <p>
-<strong>Deggenhub:</strong>A full-stack app for the community of Deggendorf with live Weather!<br>
+A full-stack app for the community of Deggendorf with live Weather!<br>
 <strong>Technologies:</strong>The app uses a wide range of technologies. On the backend it makes API calls, has custom user authentication, retrieves information from databases, caches them and much more!
 </p>
 
