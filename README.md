@@ -8,7 +8,7 @@
 <hr>
 
   <img width="190" height="130" margin="20" align="left" src="deggenhub cover.JPG"/>
-<strong>Deggenhub</strong>
+<p><strong>Deggenhub</strong></p>
 
   <p>
 <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
