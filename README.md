@@ -47,7 +47,7 @@ A full-stack app for the community of Deggendorf with live Weather!<br>
 
 <p>
 A React app made for fun!<br>
-<strong>Technologies:</strong>Its a react app hosted on netlify making API calls to endpoints hosted on cloudfare workers!
+<strong>Technologies: </strong>It's a react app built with tailwindcss and some framer motion hosted on netlify making API calls to endpoints hosted on cloudfare workers!. some cool components inculde a blog component, filtering logic and a typing game!!
 </p>
 
   <a href="https://farbod.eu" target="_blank">Live Website</a>
