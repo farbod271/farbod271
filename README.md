@@ -33,6 +33,25 @@ A full-stack app for the community of Deggendorf with live Weather!<br>
 
   <hr>
 
+  <img width="190" height="130" margin="20" align="left" src="farbod.JPG"/>
+<p style="font-size: 80px;"><strong>Personal Website</strong></p>
+
+  <p>
+<img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+
+<p>
+A React app made for fun!<br>
+<strong>Technologies:</strong>Its a react app hosted on netlify making API calls to endpoints hosted on cloudfare workers!
+</p>
+
+  <a href="https://farbod.eu" target="_blank">Live Website</a>
+
+
+
+  <hr>
 
 <p>
   <img width="130" height="190" align="left" src="liebess.JPG"/>
@@ -64,7 +83,7 @@ A full-stack app for the community of Deggendorf with live Weather!<br>
 <hr>
 <p>
   <img width="190" height="130" align="left" src="tel.JPG"/>
-
+    <p style="font-size: 80px;"><strong>ERL Apartment Checker Bot</strong></p>
   <p>
     <img src="https://img.shields.io/badge/telegram-%232496ED?style=for-the-badge&logo=telegram&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -83,7 +102,7 @@ A full-stack app for the community of Deggendorf with live Weather!<br>
 
 
   <img width="190" height="130" align="left" src="standard-academy.JPG"/>
-
+    <p style="font-size: 80px;"><strong>Standard Academy</strong></p>
   <p>
 <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
