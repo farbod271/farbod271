@@ -57,7 +57,7 @@ A React app made for fun!<br>
 
   <hr>
 
-  <img width="220" height="130" margin="20" align="left" src="farbod.JPG"/>
+  <img width="160" height="130" margin="20" align="left" src="saas.JPG"/>
 <p style="font-size: 80px;"><strong>SAAS basics</strong></p>
 
   <p>
@@ -69,7 +69,7 @@ A React app made for fun!<br>
 
 <p>
 this is a playground for building prototype components needed for a SAAS app<br>
-<strong>Technologies:</strong>this project includes a note app, auth logic using jwt, routing logic and much more, baby!
+<strong>Technologies:</strong>this project includes 2 note apps, auth logic using jwt, routing logic and much more, baby!
 </p>
 
 
