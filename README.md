@@ -50,7 +50,7 @@ A React app made for fun!<br>
 <strong>Technologies: </strong>It's  built with tailwindcss and some framer motion hosted on netlify making API calls to endpoints hosted on cloudfare workers!. some cool components inculde a blog component, filtering logic and a typing game!!
 </p>
 
-  <a href="https://farbod.eu" target="_blank">Live Website</a><hr>
+  <a href="https://farbod.eu" target="_blank">Live Website</a></br>
   <a href="https://github.com/farbod271/maximus" target="_blank">Github Repo</a>
 
 
