@@ -154,7 +154,7 @@ usefull tips and tricks i learn in bug bounty and from portswigger or hack the b
 
   <hr>
 
-  <img width="220" height="130" margin="20" align="left" src="farbod.JPG"/>
+  <img width="220" height="130" margin="20" align="left" src="LeetCode.png"/>
 <p style="font-size: 80px;"><strong>Leetcode Repo</strong></p>
 
   <p>
@@ -164,7 +164,7 @@ usefull tips and tricks i learn in bug bounty and from portswigger or hack the b
   </p>
 
 <p>
-Sometimes to practice my data and algo skills i do leetocde challenges and ill write what i learned and the code with which i solved the challenge here
+Sometimes to practice my data and algo skills i do leetocde challenges and ill write what i learned and the code with which i solved the challenge here.
 </p>
 
   <a href="https://github.com/farbod271/leetcode" target="_blank">Github Repo</a>
