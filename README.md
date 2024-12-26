@@ -83,7 +83,7 @@ this is a playground for building prototype components needed for a SAAS app<br>
   <hr>
 
 
-  <img width="220" height="130" margin="20" align="left" src="portswiggerhtb.JPG"/>
+  <img width="220" height="130" margin="20" align="left" src="portswiggerhtb.jpg"/>
 <p style="font-size: 80px;"><strong>Cyber security Repo</strong></p>
 
   <p>
