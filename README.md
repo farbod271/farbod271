@@ -47,7 +47,7 @@ A full-stack app for the community of Deggendorf with live Weather!<br>
 
 <p>
 A React app made for fun!<br>
-<strong>Technologies: </strong>It's a react app built with tailwindcss and some framer motion hosted on netlify making API calls to endpoints hosted on cloudfare workers!. some cool components inculde a blog component, filtering logic and a typing game!!
+<strong>Technologies: </strong>It's  built with tailwindcss and some framer motion hosted on netlify making API calls to endpoints hosted on cloudfare workers!. some cool components inculde a blog component, filtering logic and a typing game!!
 </p>
 
   <a href="https://farbod.eu" target="_blank">Live Website</a>
@@ -69,7 +69,7 @@ A React app made for fun!<br>
 
 <p>
 this is a playground for building prototype components needed for a SAAS app<br>
-<strong>Technologies:</strong>React with framer motion and some other minor libraries.
+<strong>Technologies:</strong>this project includes a note app, auth logic using jwt, routing logic and much more, baby!
 </p>
 
 
