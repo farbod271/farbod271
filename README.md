@@ -8,7 +8,7 @@
 <hr>
 
   <img width="190" height="130" margin="20" align="left" src="deggenhub cover.JPG"/>
-<p><strong>Deggenhub</strong></p>
+<p style="font-size: 80px;"><strong>Deggenhub</strong></p>
 
   <p>
 <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -36,8 +36,8 @@ A full-stack app for the community of Deggendorf with live Weather!<br>
 
 <p>
   <img width="130" height="190" align="left" src="liebess.JPG"/>
-
   <p>
+  <p style="font-size: 80px;"><strong>Liebess</strong></p>
 <img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js%20-white?style=for-the-badge&logo=express&labelColor=%23000000"/>
 <img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248"/>
@@ -64,8 +64,8 @@ A full-stack app for the community of Deggendorf with live Weather!<br>
 <hr>
 <p>
   <img width="190" height="130" align="left" src="tel.JPG"/>
-
   <p>
+    <p style="font-size: 80px;"><strong>ERL Apartment Checker Bot</strong></p>
     <img src="https://img.shields.io/badge/telegram-%232496ED?style=for-the-badge&logo=telegram&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
