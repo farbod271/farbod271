@@ -2,7 +2,7 @@
 <h1 align="center">About Me</h1>
 <p align="center"> Servus! I'm a full-stack web developer with a profound passion for creation.
 </p>
-<p>Currently I am pursuing my second undergrad degree and work on various full-stack projects. I'm always improving<span><a href="http://www.farbod.eu">My Website </a></span>even tho my attention is more on my projects. at the time Im working on an exciting Project impacting my small town community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
+<p>Currently I am pursuing my second undergrad degree and work on various full-stack projects. I'm always improving<span><a href="http://www.farbod.eu"> My Website </a></span>even tho my attention is more on my projects. at the time Im working on an exciting Project impacting my small town community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
 
 <!-- seperator -->
 
@@ -50,7 +50,9 @@ A React app made for fun!<br>
 <strong>Technologies: </strong>It's  built with tailwindcss and some framer motion hosted on netlify making API calls to endpoints hosted on cloudfare workers!. some cool components inculde a blog component, filtering logic and a typing game!!
 </p>
 
-  <a href="https://farbod.eu" target="_blank">Live Website</a>
+  <a href="https://farbod.eu" target="_blank">Live Website</a><hr>
+  <a href="https://github.com/farbod271/maximus" target="_blank">Github Repo</a>
+
 
 <!-- seperator -->
 
