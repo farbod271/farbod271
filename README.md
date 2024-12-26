@@ -4,6 +4,7 @@
 </p>
 <p>Currently I am pursuing my second undergrad degree and work on various full-stack projects. I'm always improving<span><a href="http://www.farbod.eu">My Website </a></span>even tho my attention is more on my projects. at the time Im working on an exciting Project impacting my small town community named <a href="http://www.deggenhub.de">Dggenhub</a>. further exciting commits will follow!</p>
 
+<!-- seperator -->
 
 <hr>
 
@@ -29,6 +30,7 @@ A full-stack app for the community of Deggendorf with live Weather!<br>
 
   <a href="https://deggenhub.de" target="_blank">Website is temporarily down for maintenance</a>
 
+<!-- seperator -->
 
 
   <hr>
@@ -49,6 +51,7 @@ A React app made for fun!<br>
 
   <a href="https://farbod.eu" target="_blank">Live Website</a>
 
+<!-- seperator -->
 
 
   <hr>
@@ -67,14 +70,54 @@ this is a playground for building prototype components needed for a SAAS app<br>
 <strong>Technologies:</strong>React with framer motion and some other minor libraries.
 </p>
 
-<p>
-  <a href="#" target="_blank">Visit</a>
-</p>
-<p>
+
+  <a href="#" target="_blank">Visit</a></br>
   <a href="https://github.com/farbod271/SAAS-components" target="_blank">Github Repo</a>
+
+
+<!-- seperator -->
+
+
+  <hr>
+
+
+  <img width="220" height="130" margin="20" align="left" src="farbod.JPG"/>
+<p style="font-size: 80px;"><strong>Cyber security Repo</strong></p>
+
+  <p>
+<img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+
+<p>
+usefull tips and tricks i learn in bug bounty and from portswigger or hack the box are here!
 </p>
 
+  <a href="https://github.com/farbod271/Cybersecurity" target="_blank">Github Repo</a>
 
+<!-- seperator -->
+
+  <hr>
+
+  <img width="220" height="130" margin="20" align="left" src="farbod.JPG"/>
+<p style="font-size: 80px;"><strong>Cyber security Repo</strong></p>
+
+  <p>
+<img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+
+<p>
+usefull tips and tricks i learn in bug bounty and from portswigger or hack the box are here!
+</p>
+
+  <a href="https://github.com/farbod271/Cybersecurity" target="_blank">Github Repo</a>
+
+
+
+<!-- seperator -->
 
   <hr>
 
@@ -105,8 +148,10 @@ this is a playground for building prototype components needed for a SAAS app<br>
 
 <br>
 
+<!-- seperator -->
 
 <hr>
+
 <p>
   <img width="190" height="130" align="left" src="tel.JPG"/>
     <p style="font-size: 80px;"><strong>ERL Apartment Checker Bot</strong></p>
@@ -123,6 +168,30 @@ this is a playground for building prototype components needed for a SAAS app<br>
 
   <a href="https://t.me/erlcheckerbot">Live Bot</a>
 </p>
+
+<!-- seperator -->
+
+  <hr>
+
+  <img width="220" height="130" margin="20" align="left" src="farbod.JPG"/>
+<p style="font-size: 80px;"><strong>Leetcode Repo</strong></p>
+
+  <p>
+<img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+
+<p>
+Sometimes to practice my data and algo skills i do leetocde challenges and ill write what i learned and the code with which i solved the challenge here
+</p>
+
+  <a href="https://github.com/farbod271/leetcode" target="_blank">Github Repo</a>
+
+
+
+<!-- seperator -->
+
 
 <hr>
 
@@ -144,6 +213,8 @@ Static app with Bootstrap for a client
 <br>
 
   <a href="https://standard-academy.ir" target="_blank">Live Website</a>
+
+  <!-- seperator -->
 
 <hr>
 
