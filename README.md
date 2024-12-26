@@ -67,8 +67,12 @@ this is a playground for building prototype components needed for a SAAS app<br>
 <strong>Technologies:</strong>React with framer motion and some other minor libraries.
 </p>
 
+<p>
   <a href="#" target="_blank">Visit</a>
+</p>
+<p>
   <a href="https://github.com/farbod271/SAAS-components" target="_blank">Github Repo</a>
+</p>
 
 
 
